@@ -7,12 +7,18 @@
 
 int main(void)
 {
-	char alphabet = 'z';
+	int n = '0';
+	int hex = 'a';
 
-	while (alphabet >= 'a')
+	while (n <= '9')
 	{
-		putchar(alphabet);
-		alphabet--;
+		putchar(n);
+		n++;
+	}
+	while (hex < 'g')
+	{
+		putchar(hex);
+		hex++;
 	}
 	putchar('\n');
 
