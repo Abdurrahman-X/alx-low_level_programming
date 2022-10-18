@@ -7,7 +7,9 @@
 
 void print_alphabet(void)
 {
-	for (let alpha = 'a'; alpha <= 'z'; alpha++)
+	char alpha;
+
+	for (alpha = 'a'; alpha <= 'z'; alpha++)
 		_putchar(alpha);
 
 	_putchar('\n');
