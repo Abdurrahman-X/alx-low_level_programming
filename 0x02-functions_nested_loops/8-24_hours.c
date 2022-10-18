@@ -5,7 +5,7 @@
  * Return: print every min of the day from 00:00 t0 23:59
  */
 
-void jack_bauer(void);
+void jack_bauer(void)
 {
 	int hrs;
 	int mins;
