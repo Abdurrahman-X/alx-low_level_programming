@@ -17,8 +17,7 @@ int main(void)
 	//{
 	//	putcahar(i);
 	//}
-	 
-	
+	 	
 	printf("Infinite loop avoided! \\o/\n");
 	
 	return (0);
