@@ -1,6 +1,4 @@
 #include <stdlib.h>
-#include <stdio.h>
-#include "functiom_pointers.h"
 
 /**
  * print_name - execute a function given as a parameter
